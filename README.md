@@ -15,6 +15,12 @@
 <img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
 </p>
 
+
+## Mattéo, lyçéen, créatif et passioné 👀
+<p align="left">
+Salut, moi c'est Mattéo je suis un Français, actuellement en 1ère STI2D. Passionné par la création audiovisuel et graphique depuis pas mal de temps, je m'intérrésse aussi beaucoup au développement et à la programation c'est avec plaisir que je vous accueil sur mon Github afin de vous faire découvrir ce que je fait.
+ </p>
+
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/) and [macOS](https://www.apple.com/macos/).
 * 🚗 Currently at [Drivemode](https://github.com/drivemode), previously at [Realm](https://github.com/realm).
 * 💥 Making a comic reader app for iOS called [iComics](https://icomics.co).
