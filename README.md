@@ -26,5 +26,5 @@ Salut, moi c'est Mattéo je suis un Français, actuellement en 1ère STI2D. Pass
 * 🎤 J'adore le Rap FR et US mais j'aime aussi les classiques tels que Charles Aznavour.
 * 😁 Nice to meet you!
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattrbdr&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattrbdr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
