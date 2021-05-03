@@ -27,4 +27,9 @@ Salut, moi c'est Mattéo je suis un Français, actuellement en 1ère STI2D. Pass
 * 😁 Nice to meet you!
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrbdr&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrbdr&repo=convoychat" />
+</a>
