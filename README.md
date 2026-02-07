@@ -2,21 +2,4 @@
 
 ###
 
-<p align="left">Entrepreneur - Founder of [Racines](https://racinesapp.com) - a curious and versatile builder who likes to take initiative and create things that matter.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I lead three main projects:<br><br>Racines is a platform that connects consumers, producers and local institutions to strengthen regional food networks. It simplifies discovery, purchasing and negotiation of local products, reduces unnecessary intermediaries, and helps producers get fair compensation. The goal is to give territories more autonomy and build a fairer, more sustainable food system.<br><br>Open Value is an open-source algorithm for fair food and agricultural pricing. It provides a transparent and accessible method for calculating prices that reflect real production costs and the social and environmental value embedded in food — without relying on speculative market dynamics.<br><br>Concord is a secure digital-signature and agricultural traceability solution. It attaches immutable proof to critical documents and data — contracts, certificates, production history — ensuring reliability, transparency and auditability across agricultural processes.<br><br>I’m currently deepening my understanding of financial services, with a focus on how these tools can support fintech, blockchain and new value infrastructures.<br><br>I’m open to collaboration with people working in fintech, blockchain, open systems and decentralized architectures.<br><br>I’ll be publishing articles soon.<br><br>Contact: matteorbdr@racinesapp.com<br>LinkedIn: https://www.linkedin.com/in/matteorbdr/</p>
-
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mattrbdr.mattrbdr&"  />
-</div>
-
-###
+<p align="left">I lead three main projects:<br><br>Racines is a platform that connects consumers, producers and local institutions to strengthen regional food networks. It simplifies discovery, purchasing and negotiation of local products, reduces unnecessary intermediaries, and helps producers get fair compensation. The goal is to give territories more autonomy and build a fairer, more sustainable food system.<br><br>Open Value is an open-source algorithm for fair food and agricultural pricing. It provides a transparent and accessible method for calculating prices that reflect real production costs and the social and environmental value embedded in food ; without relying on speculative market dynamics.<br><br>Concord is a secure digital-signature and agricultural traceability solution. It attaches immutable proof to critical documents and data , contracts, certificates, production history , ensuring reliability, transparency and auditability across agricultural processes.<br><br>I’m currently deepening my understanding of financial services, with a focus on how these tools can support fintech, blockchain and new value infrastructures.<br><br>I’m open to collaboration with people working in fintech, blockchain, open systems and decentralized architectures.<br><br>I’ll be publishing articles soon.<br><br>Contact: matteorbdr@racinesapp.com<br>LinkedIn: https://www.linkedin.com/in/matteorbdr/</p>
